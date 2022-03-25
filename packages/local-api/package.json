@@ -22,10 +22,10 @@
     "access": "public"
   },
   "dependencies": {
+    "@jbooklepard/local-client": "^1.0.0",
     "@types/cors": "^2.8.12",
     "cors": "^2.8.5",
     "express": "^4.17.3",
-    "http-proxy-middleware": "^2.0.4",
-    "@jbooklepard/local-client": "^0.1.0"
+    "http-proxy-middleware": "^2.0.4"
   }
 }
