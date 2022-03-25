@@ -9,7 +9,7 @@ export const serve = (port: number, filename: string, dir: string, useProxy: boo
 
   app.use(createCellsRouter(filename, dir));
 
-  const packagePath = require.resolve('@jbooklepard/local-client/build/index.html');
+  const packagePath = require.resolve('@jsnotelepard/local-client/build/index.html');
   if (useProxy) {
     app.use(createProxyMiddleware({
       target: 'http://localhost:1991',

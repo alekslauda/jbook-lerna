@@ -1,5 +1,5 @@
 import { Command } from "commander";
-import { serve } from "@jbooklepard/local-api";
+import { serve } from "@jsnotelepard/local-api";
 import path from "path";
 
 const isProduction = process.env.NODE_ENV === 'production';

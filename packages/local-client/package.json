@@ -1,5 +1,5 @@
 {
-  "name": "@jbooklepard/local-client",
+  "name": "@jsnotelepard/local-client",
   "version": "1.0.0",
   "publishConfig": {
     "access": "public"
@@ -65,5 +65,6 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
-  }
+  },
+  "gitHead": "7c6b7d14f88312b5bdfae5d822ec4a4edb17b557"
 }

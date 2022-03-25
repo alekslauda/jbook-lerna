@@ -1,5 +1,5 @@
 {
-  "name": "jbooklepard",
+  "name": "jsnotelepard",
   "version": "1.0.0",
   "description": "",
   "scripts": {
@@ -14,10 +14,10 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "@jbooklepard/local-client": "^1.0.0"
+    "@jsnotelepard/local-client": "^1.0.0"
   },
   "devDependencies": {
-    "@jbooklepard/local-api": "^1.0.0",
+    "@jsnotelepard/local-api": "^1.0.0",
     "@types/node": "^17.0.21",
     "commander": "^9.1.0",
     "esbuild": "0.8.26",
@@ -25,5 +25,6 @@
   },
   "publishConfig": {
     "access": "public"
-  }
+  },
+  "gitHead": "7c6b7d14f88312b5bdfae5d822ec4a4edb17b557"
 }

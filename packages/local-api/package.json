@@ -1,5 +1,5 @@
 {
-  "name": "@jbooklepard/local-api",
+  "name": "@jsnotelepard/local-api",
   "version": "1.0.0",
   "description": "",
   "main": "./dist/index.js",
@@ -22,10 +22,11 @@
     "access": "public"
   },
   "dependencies": {
-    "@jbooklepard/local-client": "^1.0.0",
+    "@jsnotelepard/local-client": "^1.0.0",
     "@types/cors": "^2.8.12",
     "cors": "^2.8.5",
     "express": "^4.17.3",
     "http-proxy-middleware": "^2.0.4"
-  }
+  },
+  "gitHead": "7c6b7d14f88312b5bdfae5d822ec4a4edb17b557"
 }
